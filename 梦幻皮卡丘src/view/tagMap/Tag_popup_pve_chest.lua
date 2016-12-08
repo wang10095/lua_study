@@ -1,0 +1,13 @@
+PATH_POPUP_PVE_CHEST = "tui/tui_popup_pve_chest.xml"
+
+Tag_popup_pve_chest = { 
+PANEL_CHEST_REWARD = 1 ,
+IMG9_CHEST_BG3 = 2 ,
+IMG9_CHEST_BG2 = 3 ,
+IMG_TREASURE_CHEST = 4 ,
+BTN_CHEST_CLOSE_POPUP = 5 ,
+LAB_CHEST_SURE = 6 ,
+LAB_CHEST_TIPS = 7 ,
+IMG9_POPUP_CHEST = 8 ,
+IMG_DIAMOND = 9 } 
+

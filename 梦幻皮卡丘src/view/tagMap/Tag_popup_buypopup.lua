@@ -1,0 +1,20 @@
+PATH_POPUP_BUYPOPUP = "tui/tui_popup_buypopup.xml"
+
+Tag_popup_buypopup = { 
+PANEL_BUYPOPUP = 1 ,
+LAYOUT_BUYPOPUP_BG = 2 ,
+IMG9_BG3 = 3 ,
+IMG9_BG2 = 4 ,
+LAB_PET_NAME = 5 ,
+LAB_ITEM_DESC = 6 ,
+LAB_BUY_PRICE = 7 ,
+LAB_PRICE = 8 ,
+IMG9_POPUP = 9 ,
+BTN_BUY = 10 ,
+LAB_BUYSURE = 11 ,
+LAYOUT_BUYPOPUP_ICON = 12 ,
+LAB_NUM_1 = 14 ,
+LAB_ITEM_NUM = 15 ,
+BTN_CLOSE = 16 ,
+IMG_MONEY = 17 } 
+

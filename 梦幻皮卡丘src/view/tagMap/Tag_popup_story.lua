@@ -1,0 +1,13 @@
+PATH_POPUP_STORY = "tui/tui_popup_story.xml"
+
+Tag_popup_story = { 
+PANEL_STORY = 1 ,
+IMG9_STORY_POPUP = 2 ,
+LAYOUT_STORY = 3 ,
+LAYOUT_MIDDLE_NPC = 4 ,
+LAYOUT_LEFT_NPC = 6 ,
+LAYOUT_RIGHT_NPC = 8 ,
+IMG9_CONTENT_BG_LIGHT = 10 ,
+LAB_CONTENT = 11 ,
+LAB_NPC_NAME = 12 } 
+

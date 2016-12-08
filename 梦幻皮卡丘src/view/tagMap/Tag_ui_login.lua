@@ -1,0 +1,15 @@
+PATH_UI_LOGIN = "tui/tui_ui_login.xml"
+
+Tag_ui_login = { 
+PANEL_LOGIN = 1 ,
+IMG_BG = 3 ,
+LAYOUT_LOGO = 4 ,
+LAYOUT_LOGIN = 6 ,
+LAYOUT_BOTTOM = 8 ,
+BTN_STARTGAME = 9 ,
+IMG_SERVER_RECT = 10 ,
+LAB_SELECT1 = 11 ,
+LAB_CURRENT_SERVER = 12 ,
+LAYOUT_TOUCH = 13 ,
+BTN_JUMP = 15 } 
+
